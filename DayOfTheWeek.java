@@ -4,7 +4,7 @@ public class DayOfTheWeek{
         Scanner in = new Scanner(System.in);
         System.out.print("Please enter a day 1 - 7: ");
         int day = in.nextInt();
-        switch (day) {
+        switch (day){
             case 1:
             case 2:
             case 3:
